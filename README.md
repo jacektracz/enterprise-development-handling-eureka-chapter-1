@@ -1,6 +1,6 @@
 Enterprise development
 
-![](https://github.com/jacektracz/enterprise-development-spring-boot-jms/article/images/img_0.png)
+![](article/images/img_0.png)
 ![](https://github.com/jacektracz/enterprise-development-spring-boot-jms/article/images/img_1.png)
 ![](https://github.com/jacektracz/enterprise-development-spring-boot-jms/article/images/img_2.png)
 ![](https://github.com/jacektracz/enterprise-development-spring-boot-jms/article/images/img_3.png)
